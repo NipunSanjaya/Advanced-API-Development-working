@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pos_customer">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="pos_customer.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="O4_POS_Customer" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="O4_POS_Customer/web/Web" />
+    </root>
+  </artifact>
+</component>
