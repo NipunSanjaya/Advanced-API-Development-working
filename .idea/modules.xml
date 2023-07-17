@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../O1_POS_Front_End.iml" filepath="$PROJECT_DIR$/../O1_POS_Front_End.iml" />
       <module fileurl="file://$PROJECT_DIR$/../O2_javaEE/O2_javaEE.iml" filepath="$PROJECT_DIR$/../O2_javaEE/O2_javaEE.iml" />
       <module fileurl="file://$PROJECT_DIR$/../O3_customer_form/O3_customer_form.iml" filepath="$PROJECT_DIR$/../O3_customer_form/O3_customer_form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../O4_POS_Customer/O4_POS_Customer.iml" filepath="$PROJECT_DIR$/../O4_POS_Customer/O4_POS_Customer.iml" />
     </modules>
   </component>
 </project>
